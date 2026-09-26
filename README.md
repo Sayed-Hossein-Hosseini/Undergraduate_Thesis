@@ -206,15 +206,16 @@ Through this conversation, I was introduced to **Dr. Ahmadreza Naghsh-Nilchi**.
 
 This was an important transition:
 
-```text
-Personal Interest
-       ↓
-Independent Exploration
-       ↓
-Academic Discussion
-       ↓
-Research Direction
-```
+<div align="center">
+
+### 🧭 Research Direction Flow
+
+| ![Step 1](https://img.shields.io/badge/-Step_1-FF9800?style=for-the-badge&labelColor=FF9800) | ![Step 2](https://img.shields.io/badge/-Step_2-2196F3?style=for-the-badge&labelColor=2196F3) | ![Step 3](https://img.shields.io/badge/-Step_3-9C27B0?style=for-the-badge&labelColor=9C27B0) | ![Step 4](https://img.shields.io/badge/-Step_4-4CAF50?style=for-the-badge&labelColor=4CAF50) |
+|:---:|:---:|:---:|:---:|
+| 💡 **Personal Interest** | 🔍 **Independent Exploration** | 💬 **Academic Discussion** | 🎯 **Research Direction** |
+| Curious about<br>Financial Markets | Self-study &<br>literature review | Conversations with<br>mentors & experts | Clear path<br>defined ✅ |
+
+</div>
 
 The conversation helped move the project from general interest toward academic investigation.
 
