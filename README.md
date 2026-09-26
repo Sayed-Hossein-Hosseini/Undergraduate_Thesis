@@ -481,8 +481,8 @@ The FinScope research subsequently developed into a dedicated paper.
 
 ### Authors
 
-**Seyed Hossein Hosseini**
-**Seyed Erfan Nourbakhsh**
+**Eng. Seyed Hossein Hosseini**, 
+**Eng. Seyed Erfan Nourbakhsh**
 
 This paper represents the next step in the research journey:
 
@@ -502,13 +502,32 @@ This paper represents the next step in the research journey:
 
 ---
 
-## 🔬 FinScope Repository
+## 🚀 FinScope Repository
 
-The detailed FinScope research is maintained separately:
+<div align="center">
 
-### [FinScope → `FINSCOPE_REPOSITORY_URL`]
+The detailed FinScope research is maintained in a dedicated repository:
 
-The dedicated repository contains the detailed methodology, evaluation framework, experiments, datasets, and research artifacts.
+[![Paper](https://img.shields.io/badge/📝_Paper-In_Preparation-FFC107?style=for-the-badge&labelColor=FFC107)](#)
+[![Repo](https://img.shields.io/badge/💻_FinScope_Repository-Private_until_Publication-9E9E9E?style=for-the-badge&labelColor=9E9E9E)](#)
+
+> 🚧 *The FinScope repository is currently private and will be made public upon paper publication.*
+
+</div>
+
+---
+
+### 📦 What the dedicated repository contains
+
+- 🧪 **Detailed methodology**
+- 📊 **Evaluation framework**
+- 🔬 **Experiments**
+- 🗂️ **Datasets**
+- 📁 **Research artifacts**
+
+---
+
+### 🧭 Purpose of this main repository
 
 This repository remains the **story and research archive** connecting that work to everything that came before it.
 
