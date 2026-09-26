@@ -481,7 +481,7 @@ The FinScope research subsequently developed into a dedicated paper.
 
 ### Authors
 
-**Eng. Seyed Hossein Hosseini**, 
+**Eng. Seyed Hossein Hosseini DolatAbadi**, 
 **Eng. Seyed Erfan Nourbakhsh**
 
 This paper represents the next step in the research journey:
@@ -541,17 +541,17 @@ This repository remains the **story and research archive** connecting that work 
 
 > Seyed Hossein Hosseini · Seyed Erfan Nourbakhsh
 
-**Status:** `To be updated`
+**Status:** `📝 In Preparation`
 
-**Publication:** `To be added`
+**Publication:** `⏳ To be updated `
 
-**Venue:** `To be added`
+**Venue:** `⏳ To be updated `
 
-**DOI:** `To be added`
+**DOI:** `⏳ To be added after publication `
 
-**Paper:** `To be added after publication`
+**Paper:** `🔒 Available after publication `
 
-> This section is intentionally reserved for the final publication information.
+> 📝 *This section is intentionally reserved for the final publication information and will be updated upon paper submission and acceptance.*
 
 ---
 
