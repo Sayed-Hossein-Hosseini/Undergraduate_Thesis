@@ -348,10 +348,14 @@ Financial documents frequently contain multiple values for the same metric.
 
 For example:
 
+<div align="center">
+
 | Qualifier         | Value |
 | ----------------- | ----: |
 | Reported          |    8% |
 | Constant Currency |   10% |
+
+</div>
 
 Both values are correct statements from the document.
 
@@ -361,11 +365,19 @@ But if the question asks:
 
 the correct answer is:
 
-**8%**
+<div align="center">
+  
+**8%** 
+
+</div>
 
 not:
 
+<div align="center">
+
 **10%**
+
+</div>
 
 The second value is not hallucinated.
 
