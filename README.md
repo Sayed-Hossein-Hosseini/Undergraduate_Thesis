@@ -206,9 +206,9 @@ Through this conversation, I was introduced to **Dr. Ahmadreza Naghsh-Nilchi**.
 
 This was an important transition:
 
-<div align="center">
-
 ### 🧭 Research Direction Flow
+
+<div align="center">
 
 | ![Step 1](https://img.shields.io/badge/-Step_1-FF9800?style=for-the-badge&labelColor=FF9800) | ![Step 2](https://img.shields.io/badge/-Step_2-2196F3?style=for-the-badge&labelColor=2196F3) | ![Step 3](https://img.shields.io/badge/-Step_3-9C27B0?style=for-the-badge&labelColor=9C27B0) | ![Step 4](https://img.shields.io/badge/-Step_4-4CAF50?style=for-the-badge&labelColor=4CAF50) |
 |:---:|:---:|:---:|:---:|
@@ -282,24 +282,37 @@ In particular, **Dr. Mohammad Reza Sharbaf** provided feedback and guidance duri
 
 ---
 
+<div align="center">
+
 ## 🔬 Literature Review Repository
 
 The complete literature review is maintained in a dedicated repository:
 
-### [Financial AI Literature Review → `REVIEW_REPOSITORY_URL`]
+[![Paper](https://img.shields.io/badge/📝_Paper-In_Preparation-FFC107?style=for-the-badge&labelColor=FFC107)](#)
+[![Repo](https://img.shields.io/badge/💻_Repository-Private_until_Publication-9E9E9E?style=for-the-badge&labelColor=9E9E9E)](#)
 
-The dedicated repository contains:
+> 🚧 *The literature review repository is currently private and will be made public upon paper publication.*
 
-* Literature collection
-* Paper categorization
-* Research mapping
-* References
-* Research gaps
-* Supporting analysis
+</div>
 
-This main repository intentionally does not duplicate that material.
+---
 
-Instead, it documents **how that literature review became part of the larger research journey**.
+### 📦 What the dedicated repository contains
+
+- 📚 **Literature collection**
+- 🗂️ **Paper categorization**
+- 🗺️ **Research mapping**
+- 🔖 **References**
+- 🕳️ **Research gaps**
+- 📊 **Supporting analysis**
+
+---
+
+### 🧭 Purpose of this main repository
+
+This main repository **intentionally does not duplicate** that material.
+
+Instead, it documents **how the literature review became part of the larger research journey** — from the first spark of interest to the final defense.
 
 ---
 
@@ -309,19 +322,19 @@ Instead, it documents **how that literature review became part of the larger res
 
 **Authors**
 
-> Seyed Hossein Hosseini · Dr. Mohammad Reza Sharbaf · Dr. Hamid Reza Baradaran Kashani · Seyed Erfan Nourbakhsh
+> <b>Eng. Seyed Hossein Hosseini DolatAbadi · Dr. Mohammad Reza Sharbaf · Eng. Seyed Erfan Nourbakhsh . Dr. Hamid Reza Baradaran Kashani</b>
 
-**Status:** `To be updated`
+**Status:** `📝 In Preparation`
 
-**Publication:** `To be added`
+**Publication:** `⏳ To be updated `
 
-**Venue:** `To be added`
+**Venue:** `⏳ To be updated `
 
-**DOI:** `To be added`
+**DOI:** `⏳ To be added after publication `
 
-**Paper:** `To be added after publication`
+**Paper:** `🔒 Available after publication `
 
-> This section is intentionally reserved for the final publication information.
+> 📝 *This section is intentionally reserved for the final publication information and will be updated upon paper submission and acceptance.*
 
 ---
 
