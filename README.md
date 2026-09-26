@@ -1,1 +1,973 @@
-# BScProject
+# Undergraduate Thesis - Bachelor's Project
+
+## From Financial Markets to FinScope
+
+### A Bachelor's Research Journey in Financial AI, Financial QA, and Intelligent Financial Systems
+
+<p align="center">
+  <img src="Assets/University of Isfahan Logo.svg.png" width="130">
+</p>
+
+<p align="center">
+  <b>University of Isfahan<br>Faculty of Computer Engineering<br>Department of Artificial Intelligence Engineering</b>
+</p>
+
+<p align="center">
+  <i>From an interest in financial markets to a research project in Financial AI</i>
+</p>
+
+---
+
+# The Story Behind the Project
+
+This repository is not just a collection of files from a Bachelor's project.
+
+It is the story of how an initial interest in **financial markets** gradually turned into a research direction, a literature review, a research collaboration, the **FinScope** framework, research papers, and eventually a Bachelor's thesis and final presentation.
+
+The journey did not begin with FinScope.
+
+It began with a simple interest:
+
+> **How can Artificial Intelligence be used to understand and analyze financial markets?**
+
+That question led to independent exploration, conversations with researchers, reading academic work, and eventually a much more specific research problem.
+
+The path looked roughly like this:
+
+```mermaid
+graph TD
+    A([💡 Interest in Financial Markets]) --> B[📚 Independent Study]
+    B --> C[💬 Conversation with<br>Dr. Hossein Karshenas]
+    C --> D[🤝 Introduction to<br>Dr. Ahmadreza Naghsh-Nilchi]
+    D --> E[📖 Reading the Master's Thesis<br>of Engineer Pejman Mazaheri]
+    E --> F([🎯 Formation of Research Direction])
+    F --> G[📝 Literature Review]
+    G --> H[🔄 Feedback & Discussion<br>with Dr. Mohammad Reza Sharbaf]
+    H --> I[🌐 Remote Research Internship<br>with Seyed Erfan Nourbakhsh<br>at the University of Texas at San Antonio]
+    I --> J([🚀 FinScope])
+    J --> K[📄 FinScope Paper]
+    K --> L[🎓 Bachelor's Thesis]
+    L --> M([🏁 Final Presentation & Defense])
+
+    style A fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style J fill:#98FB98,stroke:#333,stroke-width:2px,color:#000
+    style M fill:#FF7F7F,stroke:#333,stroke-width:2px,color:#000
+```
+
+This repository preserves that journey.
+
+---
+
+# 01 — It Started With Financial Markets
+
+Before there was a research framework, there was simply an interest in **financial markets**.
+
+The initial motivation was to understand how Artificial Intelligence could be applied to financial data and financial decision-making.
+
+Questions around:
+
+* Financial market analysis
+* Financial forecasting
+* Financial data
+* AI-based prediction
+* Financial information
+* Intelligent financial systems
+
+gradually led me toward the academic literature.
+
+At this stage, there was no specific research question.
+
+There was only a broader question:
+
+> **What can AI actually do in finance, and where are the important problems that remain open?**
+
+That question became the starting point of the research journey.
+
+---
+
+# 02 — From Interest to Exploration
+
+The next step was independent study.
+
+I began reading about the intersection of:
+
+**Artificial Intelligence × Finance**
+
+This exploration gradually expanded toward:
+
+* Financial Machine Learning
+* Financial NLP
+* Financial Question Answering
+* Financial documents
+* Financial reasoning
+* Multimodal AI
+* Large Language Models
+* Vision-Language Models
+* Financial forecasting
+
+The more I read, the clearer it became that the field was much broader than simply predicting stock prices.
+
+There was another important problem:
+
+> **How can AI systems actually understand financial information?**
+
+That question eventually became much more important to the direction of the project.
+
+---
+
+# 03 — The First Academic Conversation
+
+At this stage, I had a broad interest but not yet a clearly defined research direction.
+
+A conversation with **Dr. Hossein Karshenas** became an important step in narrowing that direction.
+
+Through this conversation, I was introduced to **Dr. Ahmadreza Naghsh-Nilchi**.
+
+This was an important transition:
+
+```text
+Personal Interest
+       ↓
+Independent Exploration
+       ↓
+Academic Discussion
+       ↓
+Research Direction
+```
+
+The conversation helped move the project from general interest toward academic investigation.
+
+---
+
+# 04 — A Thesis That Changed the Direction
+
+Dr. Ahmadreza Naghsh-Nilchi subsequently introduced me to the Master's thesis of **Engineer Pejman Mazaheri**.
+
+Reading that thesis became one of the important moments in shaping my thinking about the project.
+
+It provided a concrete example of how a broader interest in financial systems could be transformed into an academic research problem.
+
+The experience changed the way I approached the field.
+
+Instead of asking only:
+
+> **"What can I build?"**
+
+I began asking:
+
+> **"What is the actual research problem?"**
+
+This distinction became important for everything that followed.
+
+---
+
+# 05 — From an Idea to a Literature Review
+
+With a clearer direction in mind, the next step was to systematically investigate the existing research.
+
+This led to the development of a **literature review in Artificial Intelligence and Finance**.
+
+The goal was to understand:
+
+* What had already been studied?
+* Which datasets existed?
+* Which models were being used?
+* How was Financial QA being evaluated?
+* How were financial documents being processed?
+* Where were multimodal approaches being used?
+* What limitations appeared repeatedly across existing research?
+
+The literature review was not intended simply as background material for the thesis.
+
+It gradually became a research artifact of its own.
+
+---
+
+# 06 — The Literature Review Paper
+
+The literature review eventually developed into a research paper.
+
+### Authors
+
+**Seyed Hossein Hosseini**
+**Dr. Mohammad Reza Sharbaf**
+**Dr. Hamid Reza Baradaran Kashani**
+**Seyed Erfan Nourbakhsh**
+
+The work combined the original research direction with academic feedback and collaboration.
+
+In particular, **Dr. Mohammad Reza Sharbaf** provided feedback and guidance during the development of the literature review.
+
+---
+
+## 🔬 Literature Review Repository
+
+The complete literature review is maintained in a dedicated repository:
+
+### [Financial AI Literature Review → `REVIEW_REPOSITORY_URL`]
+
+The dedicated repository contains:
+
+* Literature collection
+* Paper categorization
+* Research mapping
+* References
+* Research gaps
+* Supporting analysis
+
+This main repository intentionally does not duplicate that material.
+
+Instead, it documents **how that literature review became part of the larger research journey**.
+
+---
+
+## 📄 Publication
+
+### Literature Review Paper
+
+**Authors**
+
+> Seyed Hossein Hosseini · Dr. Mohammad Reza Sharbaf · Dr. Hamid Reza Baradaran Kashani · Seyed Erfan Nourbakhsh
+
+**Status:** `To be updated`
+
+**Publication:** `To be added`
+
+**Venue:** `To be added`
+
+**DOI:** `To be added`
+
+**Paper:** `To be added after publication`
+
+> This section is intentionally reserved for the final publication information.
+
+---
+
+# 07 — From Literature to a Research Gap
+
+The literature review changed the direction of the project again.
+
+One of the interesting problems that emerged from studying Financial Question Answering was the relationship between **financial values and their contextual qualifiers**.
+
+Financial documents frequently contain multiple values for the same metric.
+
+For example:
+
+| Qualifier         | Value |
+| ----------------- | ----: |
+| Reported          |    8% |
+| Constant Currency |   10% |
+
+Both values are correct statements from the document.
+
+But if the question asks:
+
+> What was the revenue growth on a reported basis?
+
+the correct answer is:
+
+**8%**
+
+not:
+
+**10%**
+
+The second value is not hallucinated.
+
+It is actually present in the source.
+
+It simply belongs to a **different qualifier**.
+
+This led to the question that eventually became central to FinScope:
+
+> **Can a financial AI system correctly bind the value it selects to the qualifier requested by the question?**
+
+This was the point where the research moved from studying the field to investigating a specific failure mode.
+
+---
+
+# 08 — The Research Internship
+
+Around this stage, the research journey expanded through a remote research collaboration with **Seyed Erfan Nourbakhsh** at the **University of Texas at San Antonio (UTSA)**.
+
+The collaboration provided an opportunity to develop the research direction further and investigate financial AI and Financial QA in greater depth.
+
+What began as an interest in financial markets had now evolved into a concrete research problem.
+
+```text
+Financial Markets
+       ↓
+Financial AI
+       ↓
+Financial Understanding
+       ↓
+Financial QA
+       ↓
+Qualifier-to-Value Binding
+```
+
+The research collaboration eventually led to the development of FinScope.
+
+---
+
+# 09 — FinScope
+
+## From Research Gap to Research Framework
+
+**FinScope** was developed to investigate **Qualifier-to-Value Binding in Financial Question Answering**.
+
+The central idea is straightforward:
+
+A financial QA system should not merely retrieve a value that appears in the document.
+
+It should retrieve the value that corresponds to the **specific qualifier requested by the question**.
+
+```text
+             Financial Document
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+      Qualifier A         Qualifier B
+          │                   │
+       Value X              Value Y
+          │                   │
+          └─────────┬─────────┘
+                    │
+                    ▼
+              User Question
+                    │
+                    ▼
+         Requested Qualifier
+                    │
+                    ▼
+             Model Selection
+```
+
+The framework focuses on cases where the model selects a **source-present value associated with the wrong qualifier**.
+
+This failure mode became known as:
+
+### WQSV — Wrong Qualifier Source Value
+
+---
+
+# 10 — The FinScope Paper
+
+The FinScope research subsequently developed into a dedicated paper.
+
+### Authors
+
+**Seyed Hossein Hosseini**
+**Seyed Erfan Nourbakhsh**
+
+This paper represents the next step in the research journey:
+
+```text
+Literature Review
+       ↓
+Research Gap
+       ↓
+Qualifier-to-Value Binding
+       ↓
+FinScope
+       ↓
+Research Paper
+```
+
+---
+
+## 🔬 FinScope Repository
+
+The detailed FinScope research is maintained separately:
+
+### [FinScope → `FINSCOPE_REPOSITORY_URL`]
+
+The dedicated repository contains the detailed methodology, evaluation framework, experiments, datasets, and research artifacts.
+
+This repository remains the **story and research archive** connecting that work to everything that came before it.
+
+---
+
+## 📄 Publication
+
+### FinScope Paper
+
+**Authors**
+
+> Seyed Hossein Hosseini · Seyed Erfan Nourbakhsh
+
+**Status:** `To be updated`
+
+**Publication:** `To be added`
+
+**Venue:** `To be added`
+
+**DOI:** `To be added`
+
+**Paper:** `To be added after publication`
+
+> This section is intentionally reserved for the final publication information.
+
+---
+
+# 11 — From Research to Bachelor's Thesis
+
+The research journey eventually became the foundation of the Bachelor's thesis.
+
+The original project began with a broader vision around AI-based financial market analysis and evolved toward financial understanding and Financial QA.
+
+The thesis captures that evolution.
+
+### Bachelor's Thesis
+
+**Design and Development of a Flexible AI System for Financial Market Analysis
+(From Basic to Hybrid and Multimodal Approach) — FinScope**
+
+The thesis brings together:
+
+* The initial motivation
+* Background research
+* Literature review
+* Research gap
+* FinScope
+* Methodology
+* Experiments
+* Evaluation
+* Results
+* Discussion
+* Future directions
+
+---
+
+## 📖 Thesis
+
+The complete thesis is available in:
+
+`Undergraduate Thesis - Bachelor's Project/`
+
+### [Open the Bachelor's Thesis → `THESIS_PDF_LINK`]
+
+<p align="center">
+  <img src="Assets/Thesis/Bachelor's Thesis Introduction Page.png" width="750">
+</p>
+
+<p align="center">
+  <i>The opening page of the Bachelor's thesis</i>
+</p>
+
+---
+
+# 12 — The Original Proposal
+
+Before the final thesis and FinScope framework, the project had an earlier proposal.
+
+The proposal reflects an earlier stage of the research when the project was more broadly focused on:
+
+* Financial market analysis
+* Artificial Intelligence
+* Hybrid AI systems
+* Multimodal approaches
+* Intelligent financial systems
+
+As the research developed, the project became more focused.
+
+The proposal is therefore preserved as part of the project's history.
+
+### [📄 Bachelor's Project Proposal → `PROPOSAL_LINK`]
+
+---
+
+# 13 — The Final Presentation
+
+After the research, experiments, writing, and thesis preparation, the project reached its final academic presentation.
+
+The presentation condensed the research journey into one story:
+
+```text
+Interest in Financial Markets
+            ↓
+     Literature Review
+            ↓
+       Research Gap
+            ↓
+     Financial QA
+            ↓
+Qualifier-to-Value Binding
+            ↓
+         FinScope
+            ↓
+       Experiments
+            ↓
+     Bachelor's Thesis
+            ↓
+   Final Presentation
+```
+
+### 🎤 Final Presentation
+
+`Presentation/Presentation.pdf`
+
+### [Open the Presentation → `PRESENTATION_LINK`]
+
+<p align="center">
+  <img src="Assets/Presentation/Presentation Home Page.png" width="750">
+</p>
+
+<p align="center">
+  <i>Opening slide of the final Bachelor's project presentation</i>
+</p>
+
+---
+
+# 14 — Presentation & Defense Day
+
+The final presentation marked the end of the Bachelor's project and the completion of this particular stage of the research journey.
+
+This section preserves photographs from the day of the presentation and academic defense.
+
+## 📸 The Day
+
+Add photographs to:
+
+```text
+Assets/
+└── Defense/
+    ├── Defense-01.jpg
+    ├── Defense-02.jpg
+    ├── Defense-03.jpg
+    ├── Defense-04.jpg
+    └── ...
+```
+
+### Presentation Day
+
+<p align="center">
+  <img src="Assets/Defense/Defense-01.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Bachelor's project presentation</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="Assets/Defense/Defense-02.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>During the final presentation</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="Assets/Defense/Defense-03.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Academic defense day</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="Assets/Defense/Defense-04.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Final Bachelor's project presentation</i>
+</p>
+
+> Additional photographs can be added to the `Assets/Defense/` directory as the project archive grows.
+
+---
+
+# 15 — The Academic Committee
+
+## Supervisor
+
+### Dr. Hamid Reza Baradaran Kashani
+
+**Bachelor's Thesis Supervisor**
+University of Isfahan
+
+Dr. Baradaran Kashani supervised the Bachelor's project and supported the academic development of the research.
+
+---
+
+## Examiner
+
+### Dr. Ahmadreza Naghsh-Nilchi
+
+**Bachelor's Project Examiner**
+University of Isfahan
+
+Dr. Naghsh-Nilchi served as the examiner of the final Bachelor's project.
+
+His introduction to the research direction was also an important early step in the development of the project, through the recommendation of Engineer Pejman Mazaheri's Master's thesis.
+
+---
+
+# 16 — People Who Shaped the Journey
+
+This project was shaped by conversations, feedback, collaboration, and academic guidance at different stages.
+
+### Dr. Hossein Karshenas
+
+An important early academic conversation that helped connect the initial interest in financial markets to a more focused research direction.
+
+### Dr. Ahmadreza Naghsh-Nilchi
+
+Introduced me to the Master's thesis of **Engineer Pejman Mazaheri**, which became an important influence on the development of my research thinking.
+
+### Engineer Pejman Mazaheri
+
+The Master's thesis introduced during the early stages of the project played an important role in shaping the way I approached the research problem.
+
+### Dr. Mohammad Reza Sharbaf
+
+Provided feedback and academic input during the development of the literature review.
+
+He later became one of the co-authors of the literature review paper.
+
+### Dr. Hamid Reza Baradaran Kashani
+
+Bachelor's thesis supervisor and co-author of the literature review paper.
+
+### Seyed Erfan Nourbakhsh
+
+Research collaborator through the remote research internship/collaboration at the University of Texas at San Antonio.
+
+The collaboration subsequently led to the development of FinScope and the FinScope research paper.
+
+---
+
+# 17 — Two Papers, One Continuous Story
+
+The project eventually produced two connected research outputs.
+
+## Paper I — Literature Review
+
+### Authors
+
+**Seyed Hossein Hosseini**
+**Dr. Mohammad Reza Sharbaf**
+**Dr. Hamid Reza Baradaran Kashani**
+**Seyed Erfan Nourbakhsh**
+
+### Repository
+
+[🔬 Literature Review Repository → `REVIEW_REPOSITORY_URL`]
+
+### Publication
+
+**Status:** `To be updated`
+
+**Title:** `To be added`
+
+**Venue:** `To be added`
+
+**Year:** `To be added`
+
+**DOI:** `To be added`
+
+**Paper:** `To be added`
+
+---
+
+# Paper II — FinScope
+
+### Authors
+
+**Seyed Hossein Hosseini**
+**Seyed Erfan Nourbakhsh**
+
+### Repository
+
+[🔬 FinScope Repository → `FINSCOPE_REPOSITORY_URL`]
+
+### Publication
+
+**Status:** `To be updated`
+
+**Title:** `To be added`
+
+**Venue:** `To be added`
+
+**Year:** `To be added`
+
+**DOI:** `To be added`
+
+**Paper:** `To be added`
+
+---
+
+# 18 — Publication Tracker
+
+The research does not end with the Bachelor's defense.
+
+The publication information will be updated here as the papers progress through the publication process.
+
+| Research Output                    | Authors                                             | Current Status   | Publication   |
+| ---------------------------------- | --------------------------------------------------- | ---------------- | ------------- |
+| **Financial AI Literature Review** | Hosseini · Sharbaf · Baradaran Kashani · Nourbakhsh | 🔄 To Be Updated | `Coming Soon` |
+| **FinScope**                       | Hosseini · Nourbakhsh                               | 🔄 To Be Updated | `Coming Soon` |
+
+When a paper is published, this table can be updated to:
+
+| Research Output   | Authors               | Status      | Venue   | DOI   |
+| ----------------- | --------------------- | ----------- | ------- | ----- |
+| Literature Review | Hosseini et al.       | ✅ Published | `Venue` | `DOI` |
+| FinScope          | Hosseini & Nourbakhsh | ✅ Published | `Venue` | `DOI` |
+
+---
+
+# 19 — The Full Timeline
+
+```text
+┌──────────────────────────────────────────────┐
+│          INTEREST IN FINANCIAL MARKETS       │
+│                                              │
+│ Initial curiosity about AI and finance       │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│             INDEPENDENT EXPLORATION          │
+│                                              │
+│ Reading about AI, finance and markets        │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│          CONVERSATION WITH DR. KARSHENAS     │
+│                                              │
+│ First important academic discussion          │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│        INTRODUCTION TO DR. NAGHSH-NILCHI     │
+│                                              │
+│ New perspective on the research direction    │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│       READING PEJMAN MAZAHERI'S THESIS       │
+│                                              │
+│ A key influence on research thinking        │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│             LITERATURE REVIEW                │
+│                                              │
+│ Mapping Financial AI research               │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│       FEEDBACK FROM DR. MOHAMMAD SHARBAF     │
+│                                              │
+│ Development of the review paper             │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│          REMOTE RESEARCH INTERNSHIP          │
+│                                              │
+│ UTSA · Seyed Erfan Nourbakhsh               │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                   FINScope                   │
+│                                              │
+│ Qualifier-to-Value Binding                  │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│              FINScope PAPER                  │
+│                                              │
+│ Hosseini · Nourbakhsh                       │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│              BACHELOR'S THESIS              │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│            FINAL PRESENTATION                │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│              DEFENSE DAY                    │
+│                                              │
+│ Presentation · Committee · Photos           │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 20 — Repository Map
+
+This repository is the **central map** of the project.
+
+### 🔬 Literature Review
+
+**[Financial AI Literature Review → `REVIEW_REPOSITORY_URL`]**
+
+The detailed literature review, research mapping, references, and analysis.
+
+---
+
+### 🧠 FinScope
+
+**[FinScope → `FINSCOPE_REPOSITORY_URL`]**
+
+The dedicated repository for the FinScope framework, experiments, evaluation, and research artifacts.
+
+---
+
+### 📖 Bachelor's Thesis
+
+**[Bachelor's Thesis → `THESIS_PDF_LINK`]**
+
+The complete academic documentation of the project.
+
+---
+
+### 🎤 Final Presentation
+
+**[Final Presentation → `PRESENTATION_LINK`]**
+
+The final presentation of the Bachelor's project.
+
+---
+
+# 21 — What This Repository Is
+
+The individual repositories answer different questions.
+
+**Literature Review Repository**
+
+> What has already been studied in Financial AI?
+
+**FinScope Repository**
+
+> How can qualifier-to-value binding be evaluated?
+
+**Bachelor's Thesis**
+
+> How did the complete research project develop and what were the findings?
+
+**Presentation**
+
+> How was the research communicated at the end of the Bachelor's project?
+
+**This Repository**
+
+> **How did all of these pieces become one research journey?**
+
+---
+
+# 22 — Research Areas
+
+The project sits at the intersection of:
+
+* Artificial Intelligence
+* Financial AI
+* Financial Question Answering
+* Natural Language Processing
+* Large Language Models
+* Financial Document Understanding
+* Multimodal AI
+* AI Evaluation
+* Financial Reasoning
+* Reliable AI
+
+---
+
+# 23 — Author
+
+## Seyed Hossein Hosseini
+
+**Computer Engineering — Artificial Intelligence**
+University of Isfahan
+
+[GitHub](https://github.com/Sayed-Hossein-Hosseini) · [LinkedIn](https://www.linkedin.com/in/hossein-programmer) · [Google Scholar](https://scholar.google.com/citations?user=lDlEqDoAAAAJ&hl=en)
+
+---
+
+# Final Reflection
+
+The project did not begin with a benchmark.
+
+It did not begin with a paper.
+
+It did not even begin with a clearly defined research question.
+
+It began with an interest in **financial markets**.
+
+That interest led to reading.
+
+Reading led to conversations.
+
+Conversations led to new research directions.
+
+A thesis introduced a new perspective.
+
+The literature review helped map the field.
+
+Feedback helped refine the work.
+
+A remote research collaboration created the opportunity to take the next step.
+
+The research gap became **FinScope**.
+
+FinScope became a paper.
+
+The research became a Bachelor's thesis.
+
+And the thesis eventually became a presentation and defense.
+
+The most important outcome of this project is therefore not a single PDF, paper, or repository.
+
+It is the **research process that connected them all**.
+
+```text
+Interest
+   ↓
+Exploration
+   ↓
+Conversation
+   ↓
+Literature
+   ↓
+Research Gap
+   ↓
+Collaboration
+   ↓
+FinScope
+   ↓
+Paper
+   ↓
+Thesis
+   ↓
+Defense
+```
+
+<p align="center">
+  <b>From an interest in financial markets to a research journey in Financial AI.</b>
+</p>
+
+<p align="center">
+  <i>University of Isfahan · Bachelor's Project · 2026</i>
+</p>
