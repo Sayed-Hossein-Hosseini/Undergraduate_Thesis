@@ -395,23 +395,23 @@ This was the point where the research moved from studying the field to investiga
 
 # 08 — The Research Internship
 
-Around this stage, the research journey expanded through a remote research collaboration with **Seyed Erfan Nourbakhsh** at the **University of Texas at San Antonio (UTSA)**.
+Around this stage, the research journey expanded through a remote research collaboration with **Eng. Seyed Erfan Nourbakhsh** at the **University of Texas at San Antonio (UTSA)**.
 
 The collaboration provided an opportunity to develop the research direction further and investigate financial AI and Financial QA in greater depth.
 
 What began as an interest in financial markets had now evolved into a concrete research problem.
 
-```text
-Financial Markets
-       ↓
-Financial AI
-       ↓
-Financial Understanding
-       ↓
-Financial QA
-       ↓
-Qualifier-to-Value Binding
-```
+<div align="center">
+
+| Stage | Focus | Description |
+|:-----:|:------|:------------|
+| 💰 **1. Financial Markets** | Starting Point | Initial interest in financial systems |
+| 🤖 **2. Financial AI** | AI Integration | Applying AI/ML to financial problems |
+| 📊 **3. Financial Understanding** | Deep Analysis | Extracting meaning from financial data |
+| ❓ **4. Financial QA** | Question Answering | Building QA systems for finance |
+| 🔗 **5. Qualifier-to-Value Binding** | Novel Contribution | Core research innovation 🎯 |
+
+</div>
 
 The research collaboration eventually led to the development of FinScope.
 
