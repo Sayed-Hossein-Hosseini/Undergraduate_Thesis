@@ -429,26 +429,43 @@ A financial QA system should not merely retrieve a value that appears in the doc
 
 It should retrieve the value that corresponds to the **specific qualifier requested by the question**.
 
-```text
-             Financial Document
-                    │
-          ┌─────────┴─────────┐
-          │                   │
-      Qualifier A         Qualifier B
-          │                   │
-       Value X              Value Y
-          │                   │
-          └─────────┬─────────┘
-                    │
-                    ▼
-              User Question
-                    │
-                    ▼
-         Requested Qualifier
-                    │
-                    ▼
-             Model Selection
-```
+### 🔗 Qualifier-to-Value Binding Flow
+
+<div align="center">
+
+**📄 Financial Document**
+
+⬇️
+
+<table>
+  <tr>
+    <td align="center" style="padding:15px;">
+      🏷️ <b>Qualifier A</b><br>
+      ⬇️<br>
+      💎 <b>Value X</b>
+    </td>
+    <td align="center" style="padding:15px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center" style="padding:15px;">
+      🏷️ <b>Qualifier B</b><br>
+      ⬇️<br>
+      💎 <b>Value Y</b>
+    </td>
+  </tr>
+</table>
+
+⬇️
+
+**❓ User Question**
+
+⬇️
+
+**🎯 Requested Qualifier**
+
+⬇️
+
+**🤖 Model Selection**
+
+</div>
 
 The framework focuses on cases where the model selects a **source-present value associated with the wrong qualifier**.
 
