@@ -223,7 +223,7 @@ The conversation helped move the project from general interest toward academic i
 
 # 04 — A Thesis That Changed the Direction
 
-Dr. Ahmadreza Naghsh-Nilchi subsequently introduced me to the Master's thesis of **Engineer Pejman Mazaheri**.
+Dr. Ahmadreza Naghsh-Nilchi subsequently introduced me to the Master's thesis of **Engineer Pezhman Mazaheri**.
 
 Reading that thesis became one of the important moments in shaping my thinking about the project.
 
@@ -486,17 +486,19 @@ The FinScope research subsequently developed into a dedicated paper.
 
 This paper represents the next step in the research journey:
 
-```text
-Literature Review
-       ↓
-Research Gap
-       ↓
-Qualifier-to-Value Binding
-       ↓
-FinScope
-       ↓
-Research Paper
-```
+### 🛤️ Research Pipeline
+
+<div align="center">
+
+| Phase | Stage | Output |
+|:-----:|:------|:-------|
+| 1️⃣ | 📚 **Literature Review** | Comprehensive survey |
+| 2️⃣ | 🕳️ **Research Gap** | Problem statement |
+| 3️⃣ | 🔗 **Qualifier-to-Value Binding** | ⭐ Core method |
+| 4️⃣ | 🚀 **FinScope** | Framework / system |
+| 5️⃣ | 📄 **Research Paper** | Publication |
+
+</div>
 
 ---
 
