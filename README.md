@@ -34,26 +34,106 @@ That question led to independent exploration, conversations with researchers, re
 
 The path looked roughly like this:
 
-```mermaid
-graph TD
-    A([💡 Interest in Financial Markets]) --> B[📚 Independent Study]
-    B --> C[💬 Conversation with<br>Dr. Hossein Karshenas]
-    C --> D[🤝 Introduction to<br>Dr. Ahmadreza Naghsh-Nilchi]
-    D --> E[📖 Reading the Master's Thesis<br>of Engineer Pejman Mazaheri]
-    E --> F([🎯 Formation of Research Direction])
-    F --> G[📝 Literature Review]
-    G --> H[🔄 Feedback & Discussion<br>with Dr. Mohammad Reza Sharbaf]
-    H --> I[🌐 Remote Research Internship<br>with Seyed Erfan Nourbakhsh<br>at the University of Texas at San Antonio]
-    I --> J([🚀 FinScope])
-    J --> K[📄 FinScope Paper]
-    K --> L[🎓 Bachelor's Thesis]
-    L --> M([🏁 Final Presentation & Defense])
+## 🛤️ My Research Journey
 
-    style A fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
-    style F fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
-    style J fill:#98FB98,stroke:#333,stroke-width:2px,color:#000
-    style M fill:#FF7F7F,stroke:#333,stroke-width:2px,color:#000
-```
+> *From a spark of curiosity to a defended thesis — a 20-month journey through research, collaboration, and discovery.*
+
+---
+
+### 📊 Phase Breakdown
+
+<div align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th style="background:#FF9800; color:#fff; padding:10px;">🌱 Phase</th>
+      <th style="background:#2196F3; color:#fff; padding:10px;">📅 Period</th>
+      <th style="background:#9C27B0; color:#fff; padding:10px;">🎯 Key Milestones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Exploration</b></td>
+      <td align="center">Dec 2024 →<br>Apr 2025</td>
+      <td>Spark of interest in <b>Financial Markets</b> · Self-directed study & independent research</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Direction</b></td>
+      <td align="center">Apr 2025</td>
+      <td>Discussion with <b>Dr. Hamid Reza Boradaran Kashani</b> (Supervisor) → <br>Conversation with <b>Dr. Hossein Karshenas</b> → <br>Consultation with <b>Dr. Ahmad Reza Naghsh-Nilchi</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Deep Dive</b></td>
+      <td align="center">May – Aug 2025</td>
+      <td>Reading <b>Eng. Pezhman Mazaheri</b>'s Master Thesis · Research direction solidified</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Research & Paper</b></td>
+      <td align="center">Sep 2025 →<br>Apr 2026</td>
+      <td>Literature review with <b>Dr. Mohammad Reza Sharbaf</b><br>Collaboration with <b>Dr. Hamid Reza Baradaran Kashani</b><br>Collaboration with <b>Eng. Seyed Erfan Nourbakhsh</b><br>Drafting the <b>FinScope</b> paper <i>(intensified from Dec 2025)</i></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Internship & Defense</b></td>
+      <td align="center">May – Aug 2026</td>
+      <td>Remote research internship <b>"The University of Texas at San Antonio"</b><br><b>FinScope</b> project completed<br>Final defense 🏁</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+---
+
+### 🔑 Key Milestones at a Glance
+
+<div align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th style="background:#4CAF50; color:#fff; padding:10px;">🎯 Milestone</th>
+      <th style="background:#F44336; color:#fff; padding:10px;">📅 Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">💡 Idea Sparked</td><td align="center">Dec 2024</td></tr>
+    <tr><td align="center">🤝 First Supervisor Meeting</td><td align="center">Apr 2025</td></tr>
+    <tr><td align="center">🎯 Research Direction Formed</td><td align="center">Aug 2025</td></tr>
+    <tr><td align="center">📄 FinScope Paper Drafted</td><td align="center">Apr 2026</td></tr>
+    <tr><td align="center">🚀 Internship Completed</td><td align="center">Aug 2026</td></tr>
+    <tr><td align="center">🏁 Final Defense</td><td align="center">Aug 2026</td></tr>
+  </tbody>
+</table>
+</div>
+
+---
+
+### 🧭 Journey Overview
+
+<div align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th style="background:#FFC107; color:#000; padding:8px;">🌱 Explore</th>
+      <th style="background:#03A9F4; color:#fff; padding:8px;">🎯 Direct</th>
+      <th style="background:#9C27B0; color:#fff; padding:8px;">🔬 Dive</th>
+      <th style="background:#FF5722; color:#fff; padding:8px;">📝 Research</th>
+      <th style="background:#4CAF50; color:#fff; padding:8px;">🚀 Launch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Dec 2024<br>→ Apr 2025</td>
+      <td align="center">Apr 2025</td>
+      <td align="center">May 2025<br>→ Aug 2025</td>
+      <td align="center">Sep 2025<br>→ Apr 2026</td>
+      <td align="center">May 2026<br>→ Aug 2026</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+---
+
+<p><i>“The journey of a thousand miles begins with a single step.”</i></p>
 
 This repository preserves that journey.
 
