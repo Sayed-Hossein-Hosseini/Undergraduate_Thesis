@@ -618,7 +618,7 @@ As the research developed, the project became more focused.
 
 The proposal is therefore preserved as part of the project's history.
 
-### [📄 Bachelor's Project Proposal → `PROPOSAL_LINK`]
+### [📄 Bachelor's Project Proposal → `PROPOSAL_LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Undergraduate%20Proposal/BSc%20Proposal.pdf)
 
 ---
 
