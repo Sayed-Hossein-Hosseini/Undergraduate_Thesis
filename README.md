@@ -828,15 +828,15 @@ The publication information will be updated here as the papers progress through 
 
 | Research Output                    | Authors                                             | Current Status   | Publication   |
 | ---------------------------------- | --------------------------------------------------- | ---------------- | ------------- |
-| **Financial AI Literature Review** | Hosseini · Sharbaf · Baradaran Kashani · Nourbakhsh | 🔄 To Be Updated | `Coming Soon` |
+| **Financial AI Literature Review** | Hosseini · Sharbaf · Nourbakhsh . Baradaran Kashani | 🔄 To Be Updated | `Coming Soon` |
 | **FinScope**                       | Hosseini · Nourbakhsh                               | 🔄 To Be Updated | `Coming Soon` |
 
 When a paper is published, this table can be updated to:
 
-| Research Output   | Authors               | Status      | Venue   | DOI   |
-| ----------------- | --------------------- | ----------- | ------- | ----- |
-| Literature Review | Hosseini et al.       | ✅ Published | `Venue` | `DOI` |
-| FinScope          | Hosseini & Nourbakhsh | ✅ Published | `Venue` | `DOI` |
+| Research Output   | Authors               | Status                | Venue   | DOI   |
+| ----------------- | --------------------- | --------------------- | ------- | ----- |
+| Literature Review | Hosseini et al.       | ✅ Under Preparation | `Venue` | `DOI` |
+| FinScope          | Hosseini & Nourbakhsh | ✅ Under Preparation | `Venue` | `DOI` |
 
 ---
 
