@@ -854,7 +854,7 @@ This repository is the **central map** of the project.
 
 ### 🔬 Literature Review
 
-**[Financial AI Literature Review → `REVIEW_REPOSITORY_URL`]**
+**[Financial AI Literature Review → `REVIEW REPOSITORY URL` → Comming Soon](https://github.com/Sayed-Hossein-Hosseini/Financial_VLM_SLR.git)**
 
 The detailed literature review, research mapping, references, and analysis.
 
@@ -862,7 +862,7 @@ The detailed literature review, research mapping, references, and analysis.
 
 ### 🧠 FinScope
 
-**[FinScope → `FINSCOPE_REPOSITORY_URL`]**
+**[FinScope → `FINSCOPE REPOSITORY URL` → Comming Soon](https://github.com/Sayed-Hossein-Hosseini/FinScope.git)**
 
 The dedicated repository for the FinScope framework, experiments, evaluation, and research artifacts.
 
@@ -870,7 +870,7 @@ The dedicated repository for the FinScope framework, experiments, evaluation, an
 
 ### 📖 Bachelor's Thesis
 
-**[Bachelor's Thesis → `THESIS_PDF_LINK`]**
+**[Bachelor's Thesis → `THESIS PDF LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Undergraduate%20Thesis%20-%20Bachelor's%20Project/Design%20and%20Development%20of%20a%20Flexible%20AI%20System%20for%20Financial%20Market%20Analysis%20(From%20Basic%20to%20Hybrid%20and%20Multimodal%20Approach)%20-%20FinScope.pdf)**
 
 The complete academic documentation of the project.
 
@@ -878,7 +878,7 @@ The complete academic documentation of the project.
 
 ### 🎤 Final Presentation
 
-**[Final Presentation → `PRESENTATION_LINK`]**
+**[Final Presentation → `PRESENTATION LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Presentation/Presentation.pdf)**
 
 The final presentation of the Bachelor's project.
 
