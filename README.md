@@ -677,7 +677,7 @@ This section preserves photographs from the day of the presentation and academic
 ### Presentation Day
 
 <p align="center">
-  <img src="Assets/Defense Day/Defense-01.jpg" width="700">
+  <img src="Assets/Defense Day/Defense-01.png" width="700">
 </p>
 
 <p align="center">
@@ -687,7 +687,7 @@ This section preserves photographs from the day of the presentation and academic
 ---
 
 <p align="center">
-  <img src="Assets/Defense Day/Defense-02.jpg" width="700">
+  <img src="Assets/Defense Day/Defense-02.png" width="700">
 </p>
 
 <p align="center">
