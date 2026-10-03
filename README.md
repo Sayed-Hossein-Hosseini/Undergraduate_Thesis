@@ -654,7 +654,7 @@ flowchart TD
 
 `Presentation/Presentation.pdf`
 
-### [Open the Presentation → `PRESENTATION_LINK`]
+### [Open the Presentation → `PRESENTATION LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Presentation/Presentation.pdf)
 
 <p align="center">
   <img src="Assets/Presentation/Presentation Home Page.png" width="750">
@@ -676,15 +676,7 @@ This section preserves photographs from the day of the presentation and academic
 
 Add photographs to:
 
-```text
-Assets/
-└── Defense/
-    ├── Defense-01.jpg
-    ├── Defense-02.jpg
-    ├── Defense-03.jpg
-    ├── Defense-04.jpg
-    └── ...
-```
+
 
 ### Presentation Day
 
