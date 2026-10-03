@@ -618,7 +618,7 @@ As the research developed, the project became more focused.
 
 The proposal is therefore preserved as part of the project's history.
 
-### [📄 Bachelor's Project Proposal → `PROPOSAL_LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Undergraduate%20Proposal/BSc%20Proposal.pdf)
+### [📄 Bachelor's Project Proposal → `PROPOSAL LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Undergraduate%20Proposal/BSc%20Proposal.pdf)
 
 ---
 
@@ -628,24 +628,26 @@ After the research, experiments, writing, and thesis preparation, the project re
 
 The presentation condensed the research journey into one story:
 
-```text
-Interest in Financial Markets
-            ↓
-     Literature Review
-            ↓
-       Research Gap
-            ↓
-     Financial QA
-            ↓
-Qualifier-to-Value Binding
-            ↓
-         FinScope
-            ↓
-       Experiments
-            ↓
-     Bachelor's Thesis
-            ↓
-   Final Presentation
+## 🗺️ Project Roadmap
+
+```mermaid
+flowchart TD
+    A([💡 Interest in Financial Markets]) --> B([📚 Literature Review])
+    B --> C([🔍 Research Gap])
+    C --> D([💬 Financial QA])
+    D --> E([🔗 Qualifier-to-Value Binding])
+    E --> F([🚀 FinScope])
+    F --> G([🧪 Experiments])
+    G --> H([🎓 Bachelor's Thesis])
+    H --> I([🎤 Final Presentation])
+
+    classDef main fill:#e3f2fd,stroke:#1976d2,stroke-width:1.5px,color:#0d47a1;
+    classDef core fill:#fff3e0,stroke:#ef6c00,stroke-width:2.5px,color:#e65100;
+    classDef endBox fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#880e4f;
+
+    class A,B,C,D,E main;
+    class F core;
+    class G,H,I endBox;
 ```
 
 ### 🎤 Final Presentation
