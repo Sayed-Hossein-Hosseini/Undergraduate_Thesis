@@ -590,7 +590,7 @@ The complete thesis is available in:
 
 `Undergraduate Thesis - Bachelor's Project/`
 
-### [Open the Bachelor's Thesis → `THESIS_PDF_LINK`]
+### [Open the Bachelor's Thesis → `THESIS PDF LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Undergraduate%20Thesis%20-%20Bachelor's%20Project/Design%20and%20Development%20of%20a%20Flexible%20AI%20System%20for%20Financial%20Market%20Analysis%20(From%20Basic%20to%20Hybrid%20and%20Multimodal%20Approach)%20-%20FinScope.pdf)
 
 <p align="center">
   <img src="Assets/Thesis/Bachelor's Thesis Introduction Page.png" width="750">
