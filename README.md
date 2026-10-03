@@ -674,49 +674,27 @@ This section preserves photographs from the day of the presentation and academic
 
 ## 📸 The Day
 
-Add photographs to:
-
-
-
 ### Presentation Day
 
 <p align="center">
-  <img src="Assets/Defense/Defense-01.jpg" width="700">
-</p>
-
-<p align="center">
-  <i>Bachelor's project presentation</i>
-</p>
-
----
-
-<p align="center">
-  <img src="Assets/Defense/Defense-02.jpg" width="700">
-</p>
-
-<p align="center">
-  <i>During the final presentation</i>
-</p>
-
----
-
-<p align="center">
-  <img src="Assets/Defense/Defense-03.jpg" width="700">
-</p>
-
-<p align="center">
-  <i>Academic defense day</i>
-</p>
-
----
-
-<p align="center">
-  <img src="Assets/Defense/Defense-04.jpg" width="700">
+  <img src="Assets/Defense Day/Defense-01.jpg" width="700">
 </p>
 
 <p align="center">
   <i>Final Bachelor's project presentation</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="Assets/Defense Day/Defense-02.jpg" width="700">
+</p>
+
+<p align="center">
+  <i>Participants and a group with friends</i>
+</p>
+
+---
 
 > Additional photographs can be added to the `Assets/Defense/` directory as the project archive grows.
 
