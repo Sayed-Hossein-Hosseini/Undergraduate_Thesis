@@ -931,8 +931,8 @@ The project sits at the intersection of:
 
 ## Seyed Hossein Hosseini
 
-**Computer Engineering — Artificial Intelligence**
-University of Isfahan
+**Computer Engineering — Artificial Intelligence**<br>
+**University of Isfahan**
 
 [GitHub](https://github.com/Sayed-Hossein-Hosseini) · [LinkedIn](https://www.linkedin.com/in/hossein-programmer) · [Google Scholar](https://scholar.google.com/citations?user=lDlEqDoAAAAJ&hl=en)
 
@@ -974,27 +974,29 @@ The most important outcome of this project is therefore not a single PDF, paper,
 
 It is the **research process that connected them all**.
 
-```text
-Interest
+<pre align="center">
+
+🌱 Interest
    ↓
-Exploration
+🔍 Exploration
    ↓
-Conversation
+💬 Conversation
    ↓
-Literature
+📚 Literature
    ↓
-Research Gap
+🧩 Research Gap
    ↓
-Collaboration
+🤝 Collaboration
    ↓
-FinScope
+⚙️ FinScope
    ↓
-Paper
+📝 Paper
    ↓
-Thesis
+🎓 Thesis
    ↓
-Defense
-```
+🏆 Defense
+
+</pre>
 
 <p align="center">
   <b>From an interest in financial markets to a research journey in Financial AI.</b>
