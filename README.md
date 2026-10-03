@@ -748,15 +748,15 @@ Provided feedback and academic input during the development of the literature re
 
 He later became one of the co-authors of the literature review paper.
 
-### Dr. Hamid Reza Baradaran Kashani
-
-Bachelor's thesis supervisor and co-author of the literature review paper.
-
-### Seyed Erfan Nourbakhsh
+### Engineer Seyed Erfan Nourbakhsh
 
 Research collaborator through the remote research internship/collaboration at the University of Texas at San Antonio.
 
 The collaboration subsequently led to the development of FinScope and the FinScope research paper.
+
+### Dr. Hamid Reza Baradaran Kashani
+
+Bachelor's thesis supervisor and co-author of the literature review paper.
 
 ---
 
