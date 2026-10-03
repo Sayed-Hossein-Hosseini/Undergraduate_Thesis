@@ -768,10 +768,10 @@ The project eventually produced two connected research outputs.
 
 ### Authors
 
-**Seyed Hossein Hosseini**
-**Dr. Mohammad Reza Sharbaf**
+**Eng. Seyed Hossein Hosseini**, 
+**Dr. Mohammad Reza Sharbaf**, 
+**Eng. Seyed Erfan Nourbakhsh**, 
 **Dr. Hamid Reza Baradaran Kashani**
-**Seyed Erfan Nourbakhsh**
 
 ### Repository
 
@@ -779,17 +779,17 @@ The project eventually produced two connected research outputs.
 
 ### Publication
 
-**Status:** `To be updated`
+**Status:** `📝 In Preparation`
 
-**Title:** `To be added`
+**Publication:** `⏳ To be updated `
 
-**Venue:** `To be added`
+**Venue:** `⏳ To be updated `
 
-**Year:** `To be added`
+**DOI:** `⏳ To be added after publication `
 
-**DOI:** `To be added`
+**Paper:** `🔒 Available after publication `
 
-**Paper:** `To be added`
+> 📝 *This section is intentionally reserved for the final publication information and will be updated upon paper submission and acceptance.*
 
 ---
 
@@ -797,8 +797,8 @@ The project eventually produced two connected research outputs.
 
 ### Authors
 
-**Seyed Hossein Hosseini**
-**Seyed Erfan Nourbakhsh**
+**Eng. Seyed Hossein Hosseini**
+**Eng. Seyed Erfan Nourbakhsh**
 
 ### Repository
 
@@ -806,17 +806,17 @@ The project eventually produced two connected research outputs.
 
 ### Publication
 
-**Status:** `To be updated`
+**Status:** `📝 In Preparation`
 
-**Title:** `To be added`
+**Publication:** `⏳ To be updated `
 
-**Venue:** `To be added`
+**Venue:** `⏳ To be updated `
 
-**Year:** `To be added`
+**DOI:** `⏳ To be added after publication `
 
-**DOI:** `To be added`
+**Paper:** `🔒 Available after publication `
 
-**Paper:** `To be added`
+> 📝 *This section is intentionally reserved for the final publication information and will be updated upon paper submission and acceptance.*
 
 ---
 
