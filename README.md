@@ -74,7 +74,7 @@ The path looked roughly like this:
     </tr>
     <tr>
       <td align="center"><b>Internship & Defense</b></td>
-      <td align="center">May – Aug 2026</td>
+      <td align="center">May – Sep 2026</td>
       <td>Remote research internship <b>"The University of Texas at San Antonio"</b><br><b>FinScope</b> project completed<br>Final defense 🏁</td>
     </tr>
   </tbody>
@@ -98,8 +98,8 @@ The path looked roughly like this:
     <tr><td align="center">🤝 First Supervisor Meeting</td><td align="center">Apr 2025</td></tr>
     <tr><td align="center">🎯 Research Direction Formed</td><td align="center">Aug 2025</td></tr>
     <tr><td align="center">📄 FinScope Paper Drafted</td><td align="center">Apr 2026</td></tr>
-    <tr><td align="center">🚀 Internship Completed</td><td align="center">Aug 2026</td></tr>
-    <tr><td align="center">🏁 Final Defense</td><td align="center">Aug 2026</td></tr>
+    <tr><td align="center">🚀 Internship Completed</td><td align="center">Sep 2026</td></tr>
+    <tr><td align="center">🏁 Final Defense</td><td align="center">Sep 2026</td></tr>
   </tbody>
 </table>
 </div>
@@ -414,6 +414,8 @@ What began as an interest in financial markets had now evolved into a concrete r
 </div>
 
 The research collaboration eventually led to the development of FinScope.
+
+### [Internship Introduction Letter → `LINK`](https://github.com/Sayed-Hossein-Hosseini/BScProject/blob/master/Internship/Internship%20Introduction%20Letter.pdf)
 
 ---
 
