@@ -125,7 +125,7 @@ The path looked roughly like this:
       <td align="center">Apr 2025</td>
       <td align="center">May 2025<br>→ Aug 2025</td>
       <td align="center">Sep 2025<br>→ Apr 2026</td>
-      <td align="center">May 2026<br>→ Aug 2026</td>
+      <td align="center">May 2026<br>→ Sep 2026</td>
     </tr>
   </tbody>
 </table>
